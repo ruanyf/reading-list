@@ -4,7 +4,7 @@
 
 ## 文学
 
-- 青春，by 库切，2016年2月
+- :+1: 青春，by 库切，2016年2月
 - 佩德罗·巴拉莫，by 胡安·鲁尔福，2016年2月
 - :+1: 王小波杂文集：沉默的大多数，2016年1月
 - 火星任务，2015年9月
@@ -24,26 +24,26 @@
 - :+1: 李宗仁回忆录，2015年10月
 - 齐世英口述自传，2013年11月
 - 李锐口述往事，2013年9月
-- 我生有涯愿无尽，by 梁漱溟，2013年9月
+- [我生有涯愿无尽](http://www.ruanyifeng.com/blog/2013/09/liang_shuming.html)，by 梁漱溟，2013年9月
 - 我的回忆，by 张国焘，2013年8月
 - 邱会作回忆录，2013年8月
 - 杜导正日记，2013年7月
 - 沉浮与枯荣：八十自述，by 江平，2013年7月
-- 在不确定的世界，by 鲁宾，2013年7月
-- :+1: 乔布斯传，2013年2月
-- :+1: 蒋介石与现代中国的奋斗（两卷），2013年1月
+- [在不确定的世界](http://www.ruanyifeng.com/blog/2006/11/in_an_uncertain_world_by_robert_rubin.html)，by 鲁宾，2013年7月
+- :+1: [乔布斯传](http://www.ruanyifeng.com/blog/2013/03/apple_inc_and_division_of_labor.html)，2013年2月
+- :+1: [蒋介石与现代中国的奋斗](http://www.ruanyifeng.com/blog/2013/02/chiang_kai-shek.html)（两卷），2013年1月
 - 没有不散的筵席，by 黄蕙兰，2012年10月
 - 邓小平传，by 傅高义，2012年9月
-- :+1: Linus Torvalds 自传：Just For Fun，2012年9月
+- :+1: [Linus Torvalds 自传：Just For Fun](http://www.ruanyifeng.com/blog/2012/09/linus_torvalds.html)，2012年9月
 - :+1: 生涯六记，by 罗尔纲，2012年7月
-- :+1: 蒋经国传，by 陶涵，2012年7月
+- :+1: [蒋经国传](http://www.ruanyifeng.com/blog/2012/07/chiang_ching-kuo.html)，by 陶涵，2012年7月
 - 胡绩伟回忆录，2012年6月
 - 陆铿回忆录，2012年6月
 - 康正果回忆录：出中国记，2012年6月
 - :+1: [黄河青山](http://www.ruanyifeng.com/blog/2012/05/ray_huang_s_memoir.html)，by 黄仁宇，2012年5月
 - 我是黎智英，2012年4月
 - 往事，by 毛彦文，2011年9月
-- :+1: 寻找家园，by 高尔泰，2011年7月
+- :+1: [寻找家园](http://www.ruanyifeng.com/blog/2011/07/gao_ertai.html)，by 高尔泰，2011年7月
 - 王明回忆录，2011年7月
 - 个人历史，by 格雷厄姆，2011年4月
 - :+1: [巨流河](http://www.ruanyifeng.com/blog/2011/02/book_excerpt_of_the_ju_liu_river.html)，by 齐邦媛，2011年2月
@@ -97,10 +97,10 @@
 - :+1: 众病之王：癌症传，2013年11月
 - 高效能人士的七个习惯，2013年10月
 - :-1: 4点起床：最养生和高效的时间管理，2013年8月
-- 影响力：如何说服他人，2013年7月
+- [影响力：如何说服他人](http://www.ruanyifeng.com/blog/2013/08/influence_the_psychology_of_persuasion.html)，2013年7月
 - 征服病菌的道路，by 万景华，2013年6月
 - 异类——不一样的成功启示录，2013年5月
-- 熵：一种新的世界观，2013年4月
+- [熵：一种新的世界观](http://www.ruanyifeng.com/blog/2013/04/entropy.html)，2013年4月
 - 如何用统计学撒谎？，2012年11月
 - 枪炮、病菌与钢铁，2012年1月
 
@@ -108,4 +108,4 @@
 
 - 从0到1：开启商业与未来的秘密，2015年4月
 - Rework（重来），2013年10月
-- :+1: Hackers: Heroes of the Computer Revolution，by Steven Levy，2010年12月
+- :+1: [Hackers: Heroes of the Computer Revolution](http://www.ruanyifeng.com/blog/2010/12/hackers_heroes_of_the_computer_revolution.html)，by Steven Levy，2010年12月
