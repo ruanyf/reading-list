@@ -77,7 +77,7 @@
 - 中国大历史，by 黄仁宇，2012年5月
 - 万历十五年，by 黄仁宇，2012年5月
 - :+1: 红太阳是怎样升起的，2012年1月
-- 高华文集，2011年8月
+- [高华文集](http://www.ruanyifeng.com/blog/2011/08/cooking_technology_innovation_movement.html)，2011年8月
 - :+1: 延安日记，2011年7月
 - :+1: 墓碑——中国六十年代大饥荒纪实，by 杨继绳，2011年6月
 - :+1: [夹边沟记事](http://www.ruanyifeng.com/blog/2011/06/jiabian_ditch.html)，by 杨显惠，2011年6月
@@ -88,6 +88,7 @@
 
 ## 科学
 
+- :+1: 最好的告别：关于衰老与死亡，你必须知道的常识，2016年2月
 - :+1: 上帝掷骰子吗？：量子物理史话，by 曹天元，2016年1月
 - 化学元素漫话，by 叶永烈，2015年10月
 - 控制论与科学方法论，by 金观涛，2015年6月
@@ -106,6 +107,7 @@
 
 ## 技术
 
+- :+1: 梦断代码，2016年3月
 - 从0到1：开启商业与未来的秘密，2015年4月
 - Rework（重来），2013年10月
 - :+1: [Hackers: Heroes of the Computer Revolution](http://www.ruanyifeng.com/blog/2010/12/hackers_heroes_of_the_computer_revolution.html)，by Steven Levy，2010年12月
