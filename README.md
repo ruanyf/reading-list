@@ -4,6 +4,7 @@
 
 ## 文学
 
+1. 彼得堡的大师，by 库切，2016年3月
 1. :+1: [青春](http://www.ruanyifeng.com/blog/2016/02/youth-by-coetzee.html)，by 库切，2016年2月
 1. 佩德罗·巴拉莫，by 胡安·鲁尔福，2016年2月
 1. :+1: 王小波杂文集：沉默的大多数，2016年1月
@@ -60,6 +61,7 @@
 
 ## 历史
 
+1. 大路：高速中国里的工地纪事，by 张赞波，2016年3月
 1. 美国梦寻，by 特克尔，2016年1月
 1. 白崇禧先生访问纪录，2016年1月
 1. :+1: 光荣与梦想：1932～1972年美国实录，2015年11月
@@ -89,7 +91,7 @@
 
 ## 科学
 
-1. :+1: 阿图医生（第1季），2016年6月
+1. :+1: [阿图医生（第1季）](https://github.com/ruanyf/articles/blob/master/2016/2016-03-28-necrotizing-fasciitis.md)，中文版又名《医生的修炼》，2016年3月
 1. :+1: [最好的告别：关于衰老与死亡，你必须知道的常识](http://www.ruanyifeng.com/blog/2016/03/death.html)，2016年2月
 1. :+1: 上帝掷骰子吗？：量子物理史话，by 曹天元，2016年1月
 1. 化学元素漫话，by 叶永烈，2015年10月
@@ -110,6 +112,7 @@
 ## 技术
 
 1. :+1: 梦断代码，2016年3月
+1. [Exploring ES6](http://exploringjs.com/)，by Dr. Axel Rauschmayer, 2015年10月
 1. 从0到1：开启商业与未来的秘密，2015年4月
 1. Rework（重来），2013年10月
 1. :+1: [Hackers: Heroes of the Computer Revolution](http://www.ruanyifeng.com/blog/2010/12/hackers_heroes_of_the_computer_revolution.html)，by Steven Levy，2010年12月
