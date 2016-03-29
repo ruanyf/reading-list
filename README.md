@@ -112,7 +112,7 @@
 
 ## 技术
 
-1. 重新定义团队：谷歌如何工作，by 拉兹洛·博克，2016年3月
+1. [重新定义团队：谷歌如何工作](http://www.ruanyifeng.com/blog/2016/03/performance-management.html)，by 拉兹洛·博克，2016年3月
 1. :+1: 梦断代码，2016年3月
 1. [Exploring ES6](http://exploringjs.com/)，by Dr. Axel Rauschmayer, 2015年10月
 1. 从0到1：开启商业与未来的秘密，2015年4月
