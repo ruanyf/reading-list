@@ -112,6 +112,7 @@
 
 ## 技术
 
+1. [SurviveJS - Webpack and React](http://survivejs.com/), by Juho Vepsäläinen, 2016年3月
 1. 语法俱乐部，by 旋元佑，2016年3月
 1. :-1: 重新定义公司：谷歌是如何运营的，by 埃里克·施密特，2016年3月
 1. [重新定义团队：谷歌如何工作](http://www.ruanyifeng.com/blog/2016/03/performance-management.html)，by 拉兹洛·博克，2016年3月
