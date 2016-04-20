@@ -62,6 +62,7 @@
 
 ## 历史
 
+1. 21世纪资本论，2016年4月
 1. 集装箱改变世界，2016年4月
 1. 大路：高速中国里的工地纪事，by 张赞波，2016年3月
 1. 美国梦寻，by 特克尔，2016年1月
@@ -114,6 +115,7 @@
 
 ## 技术
 
+1. :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年4月
 1. 修辞高峰会，by 旋元佑，2016年4月
 1. [SurviveJS - Webpack and React](http://survivejs.com/), by Juho Vepsäläinen, 2016年3月
 1. 语法俱乐部，by 旋元佑，2016年3月
