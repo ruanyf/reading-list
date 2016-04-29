@@ -115,6 +115,7 @@
 
 ## 技术
 
+1. Modern JavaScript: Develop and Design, by Larry Ullman, 2016年4月
 1. 新机器的灵魂，2016年4月
 1. :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年4月
 1. 修辞高峰会，by 旋元佑，2016年4月
