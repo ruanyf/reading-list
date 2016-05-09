@@ -28,6 +28,7 @@
 
 ## 传记
 
+1. :+1: 180° South: Conquerors of the Useless，2016年5月
 1. :+1: 若为自由故：自由软件之父理查德·斯托曼传，2016年4月
 1. 莱昂纳多·迪卡普里奥：在世界的中心流浪，2016年3月
 1. 潜水钟与蝴蝶，2016年2月
@@ -123,6 +124,7 @@
 
 ## 技术
 
+1. Backbone.js Blueprints, 2016年4月
 1. Modern JavaScript: Develop and Design, by Larry Ullman, 2016年4月
 1. 新机器的灵魂，2016年4月
 1. :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年4月
