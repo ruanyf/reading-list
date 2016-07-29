@@ -128,6 +128,7 @@
 
 ## 技术
 
+1. [Speaking JavaScript](http://speakingjs.com/es5/index.html), by Dr. Axel Rauschmayer, 2016年7月
 1. Backbone.js Blueprints, 2016年4月
 1. Modern JavaScript: Develop and Design, by Larry Ullman, 2016年4月
 1. 新机器的灵魂，2016年4月
