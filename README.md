@@ -107,6 +107,7 @@
 
 ## 科学
 
+1. 数理经济学的基本方法，by 蒋中一，2016年7月
 1. :+1: 阿图医生（第2季），中文版又名《医生的精进》，2016年3月
 1. :+1: [阿图医生（第1季）](https://github.com/ruanyf/articles/blob/master/2016/2016-03-28-necrotizing-fasciitis.md)，中文版又名《医生的修炼》，2016年3月
 1. :+1: [最好的告别：关于衰老与死亡，你必须知道的常识](http://www.ruanyifeng.com/blog/2016/03/death.html)，2016年2月
