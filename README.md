@@ -131,6 +131,7 @@
 
 ## 技术
 
+1. 穿越计算机的迷雾，by 李忠，2016年8月
 1. Coders at Work, 2016年7月
 1. [Speaking JavaScript](http://speakingjs.com/es5/index.html), by Dr. Axel Rauschmayer, 2016年7月
 1. Backbone.js Blueprints, 2016年4月
