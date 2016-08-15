@@ -132,6 +132,9 @@
 
 ## 技术
 
+1. [http2 explained](https://daniel.haxx.se/http2/)，2016年8月
+1. Python自然语言处理，2016年8月
+1. :+1: 编码的奥秘，by Charles Petzold，2016年8月
 1. 穿越计算机的迷雾，by 李忠，2016年8月
 1. Coders at Work, 2016年7月
 1. [Speaking JavaScript](http://speakingjs.com/es5/index.html), by Dr. Axel Rauschmayer, 2016年7月
