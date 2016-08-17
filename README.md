@@ -74,7 +74,7 @@
 
 ## 历史
 
-1. 人类简史，2016年8月
+1. [人类简史](http://www.ruanyifeng.com/blog/2016/08/useless-people.html)，2016年8月
 1. :+1: 全球通史：1500年以后的世界，by 斯塔夫里阿诺斯，2016年6月
 1. 21世纪资本论，2016年4月
 1. 集装箱改变世界，2016年4月
@@ -132,6 +132,7 @@
 
 ## 技术
 
+1. 图解 HTTP，2016年8月
 1. [http2 explained](https://daniel.haxx.se/http2/)，2016年8月
 1. Python自然语言处理，2016年8月
 1. :+1: 编码的奥秘，by Charles Petzold，2016年8月
