@@ -28,6 +28,7 @@
 
 ## 传记
 
+1. 知无涯者——拉马努金传，2016年8月
 1. :+1: 戚本禹回忆录，2016年7月
 1. 聂元梓回忆录，2016年5月
 1. 张春桥狱中家书，2016年5月
@@ -136,6 +137,7 @@
 
 ## 技术
 
+1. [Software Architecture Patterns](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/)，2016年9月
 1. 图解 HTTP，2016年8月
 1. [http2 explained](https://daniel.haxx.se/http2/)，2016年8月
 1. Python自然语言处理，2016年8月
