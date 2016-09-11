@@ -137,6 +137,7 @@
 
 ## 技术
 
+1. :+1: [程序员的呐喊](http://www.ruanyifeng.com/blog/2016/09/conservative_vs_liberal_programmer.html)，by Steve Yegge，2016年9月
 1. [Software Architecture Patterns](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/)，2016年9月
 1. 图解 HTTP，2016年8月
 1. [http2 explained](https://daniel.haxx.se/http2/)，2016年8月
