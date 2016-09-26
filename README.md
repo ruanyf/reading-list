@@ -137,6 +137,7 @@
 
 ## 技术
 
+1. 数据可视化实战：使用D3设计交互式图表（《Interactive Data Visualization for the Web》的中文版），2016年9月
 1. :+1: [程序员的呐喊](http://www.ruanyifeng.com/blog/2016/09/conservative_vs_liberal_programmer.html)，by Steve Yegge，2016年9月
 1. [Software Architecture Patterns](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/)，2016年9月
 1. 图解 HTTP，2016年8月
