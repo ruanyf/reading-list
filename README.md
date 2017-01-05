@@ -12,6 +12,7 @@
 
 ## 文学
 
+1. 三少爷的剑，by 古龙，2017年1月
 1. 彼得堡的大师，by 库切，2016年3月
 1. :+1: [青春](http://www.ruanyifeng.com/blog/2016/02/youth-by-coetzee.html)，by 库切，2016年2月
 1. 佩德罗·巴拉莫，by 胡安·鲁尔福，2016年2月
@@ -137,6 +138,7 @@
 
 ## 技术
 
+1. 深入React技术栈，by 陈屹，2016年10月
 1. 数据可视化实战：使用D3设计交互式图表（《Interactive Data Visualization for the Web》的中文版），2016年9月
 1. :+1: [程序员的呐喊](http://www.ruanyifeng.com/blog/2016/09/conservative_vs_liberal_programmer.html)，by Steve Yegge，2016年9月
 1. [Software Architecture Patterns](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/)，2016年9月
