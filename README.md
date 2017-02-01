@@ -9,6 +9,7 @@
 - [历史](#历史)
 - [科学](#科学)
 - [技术](#技术)
+- [杂类](#杂类)
 
 ## 文学
 
@@ -127,11 +128,7 @@
 1. 内向者优势，2014年4月
 1. :x: 信号与噪音，2013年12月
 1. :+1: 众病之王：癌症传，2013年11月
-1. 高效能人士的七个习惯，2013年10月
-1. :x: 4点起床：最养生和高效的时间管理，2013年8月
-1. [影响力：如何说服他人](http://www.ruanyifeng.com/blog/2013/08/influence_the_psychology_of_persuasion.html)，2013年7月
 1. 征服病菌的道路，by 万景华，2013年6月
-1. 异类——不一样的成功启示录，2013年5月
 1. [熵：一种新的世界观](http://www.ruanyifeng.com/blog/2013/04/entropy.html)，2013年4月
 1. 如何用统计学撒谎？，2012年11月
 1. 枪炮、病菌与钢铁，2012年1月
@@ -153,9 +150,7 @@
 1. Modern JavaScript: Develop and Design, by Larry Ullman, 2016年4月
 1. 新机器的灵魂，2016年4月
 1. :+1: [快乐的Linux命令行](http://billie66.github.io/TLCL/index.html)，英文版 [The Linux Command Line](http://linuxcommand.org/)，2016年4月
-1. 修辞高峰会，by 旋元佑，2016年4月
 1. [SurviveJS - Webpack and React](http://survivejs.com/), by Juho Vepsäläinen, 2016年3月
-1. 语法俱乐部，by 旋元佑，2016年3月
 1. :x: 重新定义公司：谷歌是如何运营的，by 埃里克·施密特，2016年3月
 1. [重新定义团队：谷歌如何工作](http://www.ruanyifeng.com/blog/2016/03/performance-management.html)，by 拉兹洛·博克，2016年3月
 1. :+1: 梦断代码，2016年3月
@@ -163,3 +158,14 @@
 1. 从0到1：开启商业与未来的秘密，2015年4月
 1. Rework（重来），2013年10月
 1. :+1: [Hackers: Heroes of the Computer Revolution](http://www.ruanyifeng.com/blog/2010/12/hackers_heroes_of_the_computer_revolution.html)，by Steven Levy，2010年12月
+
+## 杂类
+
+1. 我决定简单的生活，by （日）佐佐木典士，2017年1月
+1. 修辞高峰会，by 旋元佑，2016年4月
+1. 语法俱乐部，by 旋元佑，2016年3月
+1. 高效能人士的七个习惯，2013年10月
+1. :x: 4点起床：最养生和高效的时间管理，2013年8月
+1. [影响力：如何说服他人](http://www.ruanyifeng.com/blog/2013/08/influence_the_psychology_of_persuasion.html)，2013年7月
+1. 异类——不一样的成功启示录，2013年5月
+
