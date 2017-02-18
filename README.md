@@ -136,6 +136,7 @@
 
 ## 技术
 
+1. [Mostly adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide), 2017年2月
 1. [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial), by xcatliu, 2017年2月
 1. 深入React技术栈，by 陈屹，2016年10月
 1. 数据可视化实战：使用D3设计交互式图表（《Interactive Data Visualization for the Web》的中文版），2016年9月
