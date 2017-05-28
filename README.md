@@ -158,7 +158,7 @@
 
 ## 技术
 
-1. [Introduction to Computing: Explorations in Language, Logic, and Machines](http://www.computingbook.org/)，by David Evans，2017年5月
+1. [Introduction to Computing](http://www.computingbook.org/)，by David Evans，2017年5月
 1. [JS 函数式编程指南](https://github.com/llh911001/mostly-adequate-guide-chinese), 2017年2月
 1. [Mostly adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide), 2017年2月
 1. [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial), by xcatliu, 2017年2月
