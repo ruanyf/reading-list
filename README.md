@@ -1,6 +1,6 @@
 下面是一些我读过的书。
 
-（注：:+1: 表示推荐，:x: 表示差评）
+（注：:+1: 表示推荐，:+1::+1: 表示必读，:x: 表示差评）
 
 ## 索引
 
@@ -116,14 +116,14 @@
 1. [朱镕基谈话实录](http://www.ruanyifeng.com/blog/2012/11/failure_of_healthcare_reform.html)（4卷），2012年11月
 1. 晚清七十年，by 唐德刚，2012年9月
 1. 找寻真实的蒋介石：蒋介石日记解读，by 杨天石，2012年8月
-1. :+1: 近代中国史纲，by 郭廷以，2012年5月
+1. :+1::+1: 近代中国史纲，by 郭廷以，2012年5月
 1. 中国大历史，by 黄仁宇，2012年5月
 1. 万历十五年，by 黄仁宇，2012年5月
 1. :+1: 红太阳是怎样升起的，2012年1月
 1. [高华文集](http://www.ruanyifeng.com/blog/2011/08/cooking_technology_innovation_movement.html)，2011年8月
 1. :+1: 延安日记，2011年7月
 1. :+1: 墓碑——中国六十年代大饥荒纪实，by 杨继绳，2011年6月
-1. :+1: [夹边沟记事](http://www.ruanyifeng.com/blog/2011/06/jiabian_ditch.html)，by 杨显惠，2011年6月
+1. :+1::+1: [夹边沟记事](http://www.ruanyifeng.com/blog/2011/06/jiabian_ditch.html)，by 杨显惠，2011年6月
 1. 追寻现代中国，by 史景迁，2011年4月
 1. [民国彪悍男女的风月史](http://www.ruanyifeng.com/blog/2011/03/china_celebrity_gossips_pre-1949.html)，2011年2月
 1. :+1: [中国近代史](http://www.ruanyifeng.com/blog/2011/02/three_kinds_of_chinese_revolution.html)，by 徐中约，2010年
@@ -132,7 +132,7 @@
 ## 科学
 
 1. :+1: 血疫：埃博拉的故事，by (美) 理查德·普雷斯顿，2017年5月
-1. :+1: 大灭绝时代，by （美）伊丽莎白·科尔伯特，2017年5月
+1. :+1::+1: 大灭绝时代，by （美）伊丽莎白·科尔伯特，2017年5月
 1. :+1: 汤姆斯河：一个美国"癌症村"的故事，by （美） 丹·费金，2017年5月
 1. 那颗星星不在星图上，by 卢昌海，2017年3月
 1. :x: 清单革命，by 阿图·葛文德，2016年8月
@@ -158,6 +158,7 @@
 
 ## 技术
 
+1. [Introduction to Computing: Explorations in Language, Logic, and Machines](http://www.computingbook.org/)，by David Evans，2017年5月
 1. [JS 函数式编程指南](https://github.com/llh911001/mostly-adequate-guide-chinese), 2017年2月
 1. [Mostly adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide), 2017年2月
 1. [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial), by xcatliu, 2017年2月
