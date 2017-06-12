@@ -163,6 +163,7 @@
 
 ## 技术
 
+1. [Introducing the Raspberry Pi Zero](https://learn.adafruit.com/introducing-the-raspberry-pi-zero?view=all), by lady ada, 2017年6月
 1. [Introduction to Computing](http://www.computingbook.org/)，by David Evans，2017年5月
 1. [JS 函数式编程指南](https://github.com/llh911001/mostly-adequate-guide-chinese), 2017年2月
 1. [Mostly adequate guide](https://github.com/MostlyAdequate/mostly-adequate-guide), 2017年2月
