@@ -168,6 +168,7 @@
 
 ## 技术
 
+1. 程序员的修炼，by Jeff Atwood，2017年9月
 1. Effective 前端，by 李银城，2017年6月
 1. [Introduction to Computing](http://www.computingbook.org/)，by David Evans，2017年5月
 1. [JS 函数式编程指南](https://github.com/llh911001/mostly-adequate-guide-chinese), 2017年2月
