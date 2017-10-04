@@ -172,6 +172,7 @@
 
 ## 技术
 
+1. 用户体验乐趣多，by David Platt，2017年10月
 1. 程序员的修炼，by Jeff Atwood，2017年9月
 1. Effective 前端，by 李银城，2017年6月
 1. [Introduction to Computing](http://www.computingbook.org/)，by David Evans，2017年5月
