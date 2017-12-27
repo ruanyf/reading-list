@@ -182,6 +182,7 @@
 
 ## 技术
 
+1. C语言程序设计：现代方法（第3版），by（美）K. N. King，2017年12月
 1. 高效能程序员的修炼，by Jeff Atwood，2017年10月
 1. 深入理解 ES6，by (美) Nicholas C. Zakas，2017年10月
 1. 用户体验乐趣多，by David Platt，2017年10月
