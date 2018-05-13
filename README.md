@@ -194,6 +194,7 @@
 
 ## 技术
 
+1. [Linux: a Portable Operating System](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf), by Linus Torvalds，2018年5月
 1. [Hadoop Illuminated](http://hadoopilluminated.com/hadoop_illuminated/index.html)，by Mark Kerzner，2018年3月
 1. 算法的乐趣，by 王晓华，2017年12月
 1. C语言程序设计：现代方法（第3版），by（美）K. N. King，2017年12月
