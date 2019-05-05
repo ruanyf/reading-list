@@ -244,6 +244,7 @@
 
 ## 技术
 
+1. [Learn You a Haskell for Great Good!](http://fleurer.github.io/lyah/)，by Miran Lipovača，2019年5月
 1. JavaScript高级程序设计（第3版）, by [美] 尼古拉斯·泽卡斯, 2018年12月
 1. JavaScript: The Definitive Guide, Sixth Edition, by David Flanagan, 2018年11月
 1. [How It Works... The Computer (1971 Edition)](https://archive.org/details/How.It.Works.The.Computer.1971.Edition.David.Carey/page/n0), by David Carey, 2018年9月
