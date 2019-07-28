@@ -262,6 +262,7 @@
 
 ## 技术
 
+1. HTML5 实战，by［英］罗伯•克洛泽，2019年7月
 1. 现代前端技术解析，by 张成文，2019年7月
 1. HTML5与CSS3基础教程（第8版），by [美] Elizabeth Castro，2019年7月
 1. [HTML & CSS is hard](https://internetingishard.com/html-and-css/)，by Oliver James，2019年7月
