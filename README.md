@@ -262,6 +262,7 @@
 
 ## 技术
 
+1. HTML5与CSS3基础教程（第8版），by [美] Elizabeth Castro，2019年7月
 1. [HTML & CSS is hard](https://internetingishard.com/html-and-css/)，by Oliver James，2019年7月
 1. [Learn You a Haskell for Great Good!](http://fleurer.github.io/lyah/)，by Miran Lipovača，2019年5月
 1. JavaScript高级程序设计（第3版）, by [美] 尼古拉斯·泽卡斯, 2018年12月
