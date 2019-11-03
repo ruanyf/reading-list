@@ -268,6 +268,7 @@
 
 ## 技术
 
+1. [Manjaro User Guide](https://manjaro.org/support/userguide/)，2019年11月
 1. [Azure for Architects (second edition)](https://azure.microsoft.com/en-us/resources/azure-for-architects/), 2019年9月
 1. [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/)，2019年8月
 1. HTML5 实战，by［英］罗伯•克洛泽，2019年7月
