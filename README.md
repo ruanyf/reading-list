@@ -270,6 +270,7 @@
 
 ## 技术
 
+1. [Linux Mint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/zh_CN/latest/)，2019年11月
 1. [Manjaro User Guide](https://manjaro.org/support/userguide/)，2019年11月
 1. [Azure for Architects (second edition)](https://azure.microsoft.com/en-us/resources/azure-for-architects/), 2019年9月
 1. [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/)，2019年8月
