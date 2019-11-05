@@ -270,6 +270,7 @@
 
 ## 技术
 
+1. [Linux Mint User Guide](https://linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)，2019年11月
 1. [Linux Mint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/zh_CN/latest/)，2019年11月
 1. [Manjaro User Guide](https://manjaro.org/support/userguide/)，2019年11月
 1. [Azure for Architects (second edition)](https://azure.microsoft.com/en-us/resources/azure-for-architects/), 2019年9月
