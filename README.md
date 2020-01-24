@@ -336,7 +336,7 @@
 
 ## 杂类
 
-1. :+1::+1: How to get rich，by Naval Ravikant，2020年1月
+1. :+1::+1: [How to get rich](https://nav.al/rich)，by Naval Ravikant，2020年1月
 1. 吾意独怜才：五常谈教育，by 张五常，2019年12月
 1. :+1: 任正非文集，2019年8月
 1. 人工智能时代的学习，by [美] 马文·明斯基，2019年8月
