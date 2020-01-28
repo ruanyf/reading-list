@@ -283,6 +283,7 @@
 
 ## 技术
 
+1. :x: [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)，by Machtelt Garrels，2020年1月
 1. [openSUSE Start-Up Book](https://doc.opensuse.org/documentation/leap/startup/html/book.opensuse.startup/index.html), 2020年1月
 1. [Linux Mint User Guide](https://linuxmint.com/documentation/user-guide/Cinnamon/english_18.0.pdf)，2019年11月
 1. [Linux Mint Installation Guide](https://linuxmint-installation-guide.readthedocs.io/zh_CN/latest/)，2019年11月
