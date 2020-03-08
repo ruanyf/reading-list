@@ -285,6 +285,7 @@
 
 ## 技术
 
+1. Learning the bash Shell, 3rd Edition, by Cameron Newham，2020年3月
 1. [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)，by Mike Gmikkey，2020年1月
 1. :x: [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)，by Machtelt Garrels，2020年1月
 1. [openSUSE Start-Up Book](https://doc.opensuse.org/documentation/leap/startup/html/book.opensuse.startup/index.html), 2020年1月
