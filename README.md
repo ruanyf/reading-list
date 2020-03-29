@@ -286,6 +286,7 @@
 
 ## 技术
 
+1. Shell Scripting: Expert Recipes for Linux, Bash, and More, by Steve Parker, 2020年3月
 1. Mastering Bash: A Step-by-Step Guide to working with Bash Programming and Shell Scripting, by Giorgio Zarrelli , 2020年3月
 1. Learning the bash Shell, 3rd Edition, by Cameron Newham，2020年3月
 1. [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)，by Mike Gmikkey，2020年1月
