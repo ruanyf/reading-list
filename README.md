@@ -299,6 +299,7 @@
 
 ## 技术
 
+1. Ssh, The Secure Shell: The Definitive Guide Second Edition，by Richard E. Silverman，2020年8月
 1. Bash Quick Start Guide, by Tom Ryder, 2020年3月
 1. :+1: Shell Scripting: Expert Recipes for Linux, Bash, and More, by Steve Parker, 2020年3月
 1. Mastering Bash: A Step-by-Step Guide to working with Bash Programming and Shell Scripting, by Giorgio Zarrelli , 2020年3月
