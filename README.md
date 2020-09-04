@@ -300,6 +300,7 @@
 
 ## 技术
 
+1. 微信小程序开发实战，by 陈伟，2020年9月
 1. Ssh, The Secure Shell: The Definitive Guide Second Edition，by Richard E. Silverman，2020年8月
 1. Bash Quick Start Guide, by Tom Ryder, 2020年3月
 1. :+1: Shell Scripting: Expert Recipes for Linux, Bash, and More, by Steve Parker, 2020年3月
