@@ -302,6 +302,7 @@
 
 ## 技术
 
+1. Implementing SSH: Strategies for Optimizing the Secure Shell，by Himanshu Dwivedi，2020年12月
 1. 微信小程序开发零基础入门，by 周文洁，2020年9月
 1. 微信小程序实战入门，by 刘明洋，2020年9月
 1. 微信小程序开发实战，by 陈伟，2020年9月
