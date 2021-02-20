@@ -302,6 +302,7 @@
 
 ## 技术
 
+1. [Essential C](http://cslibrary.stanford.edu/101/)，2021年2月
 1. SSh Mastery (2nd edition)，by Michael W Lucas，2020年12月
 1. Implementing SSH: Strategies for Optimizing the Secure Shell，by Himanshu Dwivedi，2020年12月
 1. 微信小程序开发零基础入门，by 周文洁，2020年9月
