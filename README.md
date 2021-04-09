@@ -285,6 +285,7 @@
 
 ## 技术
 
+1. 嗨翻 C 语言（Head First C），by David Griffiths，2021年4月
 1. [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/index-wide.html)，2021年4月
 1. [Essential C](http://cslibrary.stanford.edu/101/)，2021年2月
 1. SSh Mastery (2nd edition)，by Michael W Lucas，2020年12月
