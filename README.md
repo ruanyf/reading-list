@@ -286,6 +286,7 @@
 
 ## 技术
 
+1. :+1: 硅谷革命: 成就苹果公司的疯狂往事，by Andy Hertzfeld，2021年5月
 1. 嗨翻 C 语言（Head First C），by David Griffiths，2021年4月
 1. [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/index-wide.html)，2021年4月
 1. [Essential C](http://cslibrary.stanford.edu/101/)，2021年2月
