@@ -289,6 +289,7 @@
 
 ## 技术
 
+1. :+1: C 语言程序设计：现代方法（第2版），by K. N. King，2021年6月
 1. C Primer Plus（第6版），by Stephen Prata，2021年5月
 1. :+1: 硅谷革命: 成就苹果公司的疯狂往事，by Andy Hertzfeld，2021年5月
 1. 嗨翻 C 语言（Head First C），by David Griffiths，2021年4月
