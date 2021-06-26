@@ -290,6 +290,7 @@
 
 ## 技术
 
+1. C 语言核心技术（C in a Nutshell，第二版），by Peter Prinz，2021年6月
 1. C programming Absolute Beginner's Guide (3rd edition)，by Greg Perry, Dean Miller，2021年6月
 1. :+1: C 语言程序设计：现代方法（第2版），by K. N. King，2021年6月
 1. C Primer Plus（第6版），by Stephen Prata，2021年5月
