@@ -290,6 +290,7 @@
 
 ## 技术
 
+1. C 和指针（Pointers on C），by Kenneth A. Reek，2021年6月
 1. C 语言编程魔法书，by 陈轶，2021年6月
 1. C how to program with an introduction to C++ (eighth edition)，by Paul Deitel，2021年6月
 1. C 语言核心技术（C in a Nutshell，第二版），by Peter Prinz，2021年6月
