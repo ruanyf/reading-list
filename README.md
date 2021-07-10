@@ -290,6 +290,7 @@
 
 ## 技术
 
+1. C 陷阱与缺陷（C Traps and Pit falls），by Andrew Koenig，2021年7月
 1. C 专家编程（Expert C Programming: Deep C Secrets），by Peter Van Der Linden，2021年7月
 1. 深入理解 C 指针（Understanding and Using C Pointers），by Richard Reese，2021年6月
 1. C 和指针（Pointers on C），by Kenneth A. Reek，2021年6月
