@@ -292,6 +292,7 @@
 
 ## 技术
 
+1. :x: [TypeScript dive deep](https://basarat.gitbook.io/typescript/)，by Basarat Ali Syed，2021年12月
 1. Let us C (Fourteenth Edition), by Yashavant kanetkar, 2021年7月
 1. C 陷阱与缺陷（C Traps and Pit falls），by Andrew Koenig，2021年7月
 1. C 专家编程（Expert C Programming: Deep C Secrets），by Peter Van Der Linden，2021年7月
