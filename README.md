@@ -294,6 +294,7 @@
 
 ## 技术
 
+1. [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)，2022年4月
 1. :x: [TypeScript dive deep](https://basarat.gitbook.io/typescript/)，by Basarat Ali Syed，2021年12月
 1. Let us C (Fourteenth Edition), by Yashavant kanetkar, 2021年7月
 1. C 陷阱与缺陷（C Traps and Pit falls），by Andrew Koenig，2021年7月
