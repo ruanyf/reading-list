@@ -398,6 +398,7 @@
 
 ## 备忘
 
+1. 美国日常口语情景会话实践，by 迈.奥肯邓，2022年8月
 1. TypeScript Revealed，by Dan Maharry，2022年8月
 1. 为什么要睡觉，by [美] Matthew Walker，2022年8月
 1. 凌志汽车和橄榄树，by [美] 托马斯·弗里德曼，2022年8月
