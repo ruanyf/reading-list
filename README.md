@@ -399,6 +399,7 @@
 
 ## 备忘
 
+1. [Learn TypeScript](https://www.tutorialspoint.com/typescript/)，by tutorialspoint，2022年9月
 1. 美国日常口语情景会话实践，by 迈.奥肯邓，2022年8月
 1. TypeScript Revealed，by Dan Maharry，2022年8月
 1. 为什么要睡觉，by [美] Matthew Walker，2022年8月
