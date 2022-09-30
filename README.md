@@ -305,6 +305,7 @@
 
 ## 技术
 
+1. :+1: TypeScript 入门与实战，by 钟胜平，2022年9月
 1. TypeScript Quickly，by Yakov Fain，2022年9月
 1. :+1: Unix 传奇：历史与回忆，by [美] Brian W. Kernighan，2022年8月
 1. [Tackling TypeScript](https://exploringjs.com/tackling-ts/)，by Axel Rauschmayer，2022年8月
