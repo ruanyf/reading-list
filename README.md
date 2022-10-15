@@ -405,6 +405,7 @@
 
 ## 备忘
 
+1. 维多利亚时代的互联网，by [英] 汤姆·斯丹迪奇，2022年10月
 1. 遇见日本，by 徐静波，2022年9月
 1. [Learn TypeScript](https://www.tutorialspoint.com/typescript/)，by tutorialspoint，2022年9月
 1. 美国日常口语情景会话实践，by 迈.奥肯邓，2022年8月
