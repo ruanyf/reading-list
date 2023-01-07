@@ -407,6 +407,7 @@
 
 ## 备忘
 
+1. 伊朗四千年，by [伊朗]霍昌·纳哈万迪，2023年1月
 1. 维多利亚时代的互联网，by [英] 汤姆·斯丹迪奇，2022年10月
 1. 遇见日本，by 徐静波，2022年9月
 1. [Learn TypeScript](https://www.tutorialspoint.com/typescript/)，by tutorialspoint，2022年9月
