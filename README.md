@@ -445,6 +445,7 @@
 
 ## 杂类
 
+1. 现金流量与证券分析（第二版），by [美] 肯尼斯·汉科 / [美] 尤西·李凡特，华夏出版社，2026年3月
 1. :+1: 英语句法图解，by 中山大学外语系英语专业，2025年10月
 1. [TOR: From the Dark Web to the Future of Privacy](https://direct.mit.edu/books/oa-monograph/5761/TorFrom-the-Dark-Web-to-the-Future-of-Privacy), by BEN COLLIER, 2025年10月
 1. 三剑楼随笔，by 百剑堂主，梁羽生，金庸，2025年10月
